@@ -1,0 +1,21 @@
+Working from home poses more threat from cyber security breaches than working from an office due to a reduce security than in the workplace. Hence, it is important to develop good security habits to keep information safe and uphold the integrity for our work and our customers.
+
+Common cybersecurity threats in a remote work environment include phishing scams, malware attacks, data leakage. 
+
+Firstly, it is important to exercise vigilance at all times, and always be suspicious of unusual emails and activities. Always check the sender emails to ensure it is correct and belongs to the person you expect it from, and don't blindly open links with unfamiliar domains. If there is any doubts about an email or link, do not hesitate to reach out to the rest of the team. Report these incidents straight away so that your colleagues are aware and vigilant. When leaving your desk, it is very easy to ensure you are locking all your devices to prevent unauthorised access. It prevents accidental (or even non-accidental) leak of confidential information. 
+
+In terms of software, implement multi-factor authentication where possible, ensuring potential hackers are not able to easily log-in to your accounts with just your log-in details. Additionally, ensure high password strength and do not use the same password for multiple accounts so that in the unfortunate case of a hack, they are not able to access any other accounts. A strong password should not include any names, birthdays, common words, sequential numbers. It should have a combination of upper and lower case letters, special characters if possible and numbers that don't have any logical order. It is also ideal if passwords are changed every year or even half-yearly. This also includes the password to home Wi-Fi, and making sure as well that this Wi-Fi connection is encrypted. Lastly, but not exhausted to, avoid using public Wi-Fi networks, as these may be more susceptible to cyber attacks. 
+
+Multi-Factor Authentication are in place for many of my accounts, especially ones with sensitive and confidential information. Though, I need to check if all accounts where MFA is possible do actually have MFA, as I may have missed some. I have set-up a password manager to store all my passwords in an encrypted vault. I have some repeats of passwords across some accounts, so I need to improve on creating new passwords each time I create an account. Another room for improvement is checking if my Wi-Fi is secure at all times. This has become an afterthought to me until now, since I tend to study and use my devices in different places, so I aim to establish a high level of caution and avoid where possible using such networks. 
+
+Personally, I exercise zero-trust online, especially with emails, texts, links, as I am aware that cyber attacks are extremely common and can result in serious issues. I always check senders' email addresses, and never blindly opening suspicious links. One way to make secure behaviour a habit rather than an afterthought is to always think of the worst case scenarios in the moment of making decisions online, to ensure I have safeguarded against possible cyber attacks. If I suspect a security breach, I will take the necessary steps ensure the rest of the team have been made aware to investigate and take action immediately. I will also investigate myself the cause of the breach if there may have been any gaps in my level of security. I will change the my password to my account and log out my account on all devices it has been logged in. 
+
+To ensure my accounts are safe, I will take the following steps: 
+1. Creating a secure password 
+2. Implementing MFA 
+3. Use only secure Wi-Fi networks 
+4. Lock my devices when not in use 
+5. Report suspicious activities immediately
+6.. Exercise vigilance ALWAYS.
+
+One new security habit I will follow at Focus Bear is checking if my Wi-Fi is secure all the time, especially while working. I will make sure I understand what it means for my Wi-Fi to be secure and taking necessary steps to ensure that it is. 
