@@ -1,0 +1,11 @@
+Research & Learn
+
+Laptops don't offer the most optimal viewing. Risks of using a laptop without a monitor and keyboard include: neck and wrist strain from constantly looking down and poor hand angles, eye strain from awkward viewing angles, back pain from being in a hunched position as a result of the low position of a laptop. We can improve posture through ergonomic equipment such as: elevated laptop stands, ergonomic and adjustable chairs for better posture, external keyboard and mouse which allow for better hand placements, etc. 
+
+Similar to adjusting your position when driving a car, adjustments should also be made to your work station prior to working to ensure a healthier and comfortable work day. This includes: adjusting monitor height to eye level and angle slightly upward to reduce glare, adjusting chair position where knees are 90º bent, adjust desk height where elbows are 90º bent. Some daily habits to reduce the impact of prolonged laptop use include: taking movement breaks every hours, constant posture reminders, 20-20-20 rule, avoid keeping eyes open for too long at a time. 
+
+Reflection:
+
+Currently, I do not have a laptop stand, but I can improve my workplace setup by investing in one to avoid poor posture when I don't have access to a monitor. I can implement the 20-20-20 rule to avoid eye strain, especially now with my increased screen time. I can use Focus Bear to schedule movement breaks to avoid being in a sitting position for too long at a time. I can schedule movement breaks every hour for five minutes (2:55pm - 3:00pm for example) and then start afresh for the next hour.
+
+For the meantime, I am using a monitor while doing my work, but when I begin to work on my laptop (for example, coming into in-person working days), I will bring a laptop stand along with my keyboard and mouse. I could also improve my posture by investing in a chair that has a neck rest. Currently, my desk chair has a high back but no neck rest. I've been using reminders every hour since the start of my workday to move around and stretch. So far, it's increased my productivity since I feel less pain. Since I am new to remote work and desk work, I have started to develop the habit of regularly moving around and stretching. r
