@@ -14,7 +14,7 @@ Room for Improvement
 
 At the moment, I feel I am less confident in my skills in SQL and Python and I aim to improve on it over the course of the internship. I have some experience with Python and no prior experience with SQL. I also have no experience with VS Code. 
 
-What Success Looks Like
+Success During My Internship
 
 In order to say this internship was a success, the following must happen:
 - Work-Ready skills in programs like SQL and Python (I can adapt well into a job that requires these skills)
