@@ -1,12 +1,12 @@
 My top 10 shortcuts on VS Code:
 
-Debugging:
-F5: start/continue
-Shift + F5: stop
-
 Terminal Commands:
 Control + Shift + `: create new terminal
 Command + \: split terminal
+
+Debugging:
+F5: start/continue
+Shift + F5: stop
 
 Editing:
 Option + Command + Up/Down: Insert Cursor Above/Below
