@@ -27,3 +27,5 @@ Reflection:
 
 My role as a data analytics intern is understanding how users interact with Focus Bear. I contribute to the Agile process as a supporting role, where I gather data for analysis. I support developers and QA in determining whether certain features have an effect on some performance metrics. I also support the product manager in visualising the statistics to present to stakeholders for clear presentation. I can also wrangle with internal data like timelines, work processes, and develop insights to support the Agile PM in identifying bottlenecks and pitfalls. One role that the data analytics team may frequently collaborate with is the developing team. I will be frequently analysing data they may find relevant to continuously deliver valuable software to our customers.
 
+Given that I have yet to complete my onboarding tasks, I have yet to collaborate extensively with the team. When I begin real tasks, I will be more actively involved in collaborating with other teams like the developers and Agile PM. 
+
