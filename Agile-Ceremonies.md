@@ -14,4 +14,17 @@ Agile teams can include people from all over the world and may not all work at a
 
 For my role as a data analytics intern, I believe the most important ceremony right now are the daily stand-ups. Being an intern, processes are still new to me so it is important that I am informed daily of the things that need to be done. 
 
-One change I can make to improve my team collaboration is by actively participating in the ceremonies and not being afraid to speak up.
+I attended a stand-up meeting on Friday 8th August at 3pm through Google Meet. Each team member were given a few minutes to provide a progress update to the rest of the team. I personally shared my progress with the rest of the team, any blockers I have at the moment, and I was given some goals to complete within the next few weeks. 
+
+I also reviewed a retrospective from Front-End team which occured in April this year. It was done through Miro. They had some icebreakers in the beginning before proceeding to the main agenda where the team answered the following questions:
+- What went great?
+- How did we support each other?
+- Could anything be done better?
+- What are the priorities for the next sprint?
+- Who stood out this sprint?
+
+<img width="993" height="200" alt="Screenshot 2025-08-15 at 08 33 51" src="https://github.com/user-attachments/assets/7d99e043-0c9f-4c22-a492-c4e2e354226d" />
+
+I think it was quite insightful looking at a past retrospective given I have yet to participate in a sprint, let alone a retrospective. I believe I understand now what is expected of me during a sprint. 
+
+One change I can make to improve my team collaboration is by actively participating in the ceremonies and not being afraid to speak up. I think this will be incredibly helpful not just for the rest of the team to understand where I fit in the team, but also for myself if I experience any challenges that the team will be able to support me.
