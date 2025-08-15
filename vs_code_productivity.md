@@ -24,3 +24,5 @@ I believe I will find the following shortcuts useful:
 I will be able to jump smoothly between notebooks, files and modules without breaking my workflow through Command + P. While editing, I can also bulk-edit using multi-cursor instead of using copy-paste for each occurrence. This will greatly boost my efficiency in my daily work. Personally, I've tried using multi-cursor before and it was super helpful. Before knowing this shortcut, I had to use copy-paste which took up a lot of time because I had to look for all the areas I needed to edit. 
 
 Once I master all different kinds of keyboard shortcuts on VS Code, it will boost my productivity by minimising time on running certain functions as it can be down simply through the shortcut. Therefore, I can improve my efficiency and get more meaningful work done. 
+
+https://github.com/leighh15/leighh15-intern-repo/pull/57
