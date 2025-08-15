@@ -1,15 +1,19 @@
 # Task 1: Hello, Python!
 
 greeting = "Good Morning Starshine, the Earth says 'Hello'!"
+
 print(greeting)
 
 # Task 2: Simple Math
 
 num1 = float(input("Please enter the first number: "))
+
 num2 = float(input("Please enter the second number: "))
 
 print("Sum: ", num1 + num2)
+
 print("Difference: ", num1 - num2)
+
 print("Product: ", num1 * num2)
 
 if num2 == 0:
