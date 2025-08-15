@@ -18,6 +18,7 @@ print("Product: ", num1 * num2)
 
 if num2 == 0:
     print("Quotient: undefined, cannot divide by zero.")
+
 else:
     print("Quotient: ", num1 / num2)
 
