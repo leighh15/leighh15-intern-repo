@@ -25,6 +25,7 @@ Efficient code means if it meets the budget in terms of latency, memory and work
 ## Messy Code
 
 I asked ChatGPT to create an intentionally messy code for me to fix. The image below shows the messy code.
+
 <img width="491" height="239" alt="Screenshot 2025-08-15 at 1 23 56 pm" src="https://github.com/user-attachments/assets/f8e53dd3-30d6-434c-9b15-d70790e57d72" />
 
 Why is it difficult to read?
@@ -35,7 +36,8 @@ Why is it difficult to read?
 
 ## Clean Code
 
-The code below shows an edited, cleaner version of the messy code. 
+The code below shows an edited, cleaner version of the messy code.
+
 <img width="491" height="384" alt="Screenshot 2025-08-15 at 1 24 08 pm" src="https://github.com/user-attachments/assets/58b71f05-d69e-4ab7-8375-ad060450fa75" />
 
 Why is it cleaner?
