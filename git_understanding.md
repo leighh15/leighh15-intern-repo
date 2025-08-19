@@ -28,3 +28,7 @@ Nonetheless, it is still possible to skip staging for any of the following, non-
 - small typo fixes
 - solo projects
 - quick fixes
+
+This is what it looks like when I stage the file but not yet commit.
+<img width="545" height="90" alt="Screenshot 2025-08-19 at 16 57 57" src="https://github.com/user-attachments/assets/bd669d7c-bff0-4213-8173-38a91c6f45d1" />
+
