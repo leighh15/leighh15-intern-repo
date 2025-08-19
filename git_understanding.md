@@ -41,4 +41,13 @@ Pushing changes directly to the main branch is problematic because the main is u
 As learned previously, when two people edit the same file on different branches, the following can happen:
 - If they edited completely different sections, then git can merge both changes automatically.
 - if they edited the same line, then git will flag the conflict for manual review.
-Branches force conflict resolution when work overlaps, because conflicts are explicit, they get resolved deliberately instead of one work overwriting another's work. 
+Branches force conflict resolution when work overlaps, because conflicts are explicit, they get resolved deliberately instead of one work overwriting another's work.
+
+# Advanced Git Commands
+
+# Understanding git bisect
+
+# Writing Meaningful Commit Messages
+
+# Pull Requests
+
