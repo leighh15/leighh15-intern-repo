@@ -32,3 +32,13 @@ Nonetheless, it is still possible to skip staging for any of the following, non-
 This is what it looks like when I stage the file but not yet commit.
 <img width="545" height="90" alt="Screenshot 2025-08-19 at 16 57 57" src="https://github.com/user-attachments/assets/bd669d7c-bff0-4213-8173-38a91c6f45d1" />
 
+# Branching and Team Collaboration
+
+I have created a testing branch called testingbranch. I made changes to a file through that branch and checked the main branch and the changes wee not reflected there. 
+
+Pushing changes directly to the main branch is problematic because the main is usually what gets shipped to production. Any changes made there without review or quality control is dangerous and could introduce bugs, security issues, etc. Branches help to isolate work by different people and for different features until they are ready to be merged. We can also use branches to open pull requests so reviewers can see the changes made or catch mistakes before merging. It is also easier to see which branch or pull request introduced a change to the main, making debugging easier. 
+
+As learned previously, when two people edit the same file on different branches, the following can happen:
+- If they edited completely different sections, then git can merge both changes automatically.
+- if they edited the same line, then git will flag the conflict for manual review.
+Branches force conflict resolution when work overlaps, because conflicts are explicit, they get resolved deliberately instead of one work overwriting another's work. 
