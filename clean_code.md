@@ -44,3 +44,65 @@ Why is it cleaner?
 - pass threshold clearly outlined, easy to find and easy to change if required
 - created new functions that have its own dedicated responsibility, called to the main code when needed
 - names are clear and understandable ("for student in students" clearly means "for each student in the student list" as opposed to "for s in students")
+
+# Code Formatting and Style Guides
+
+# Naming Variables and Functions
+
+## Good Variable and Function Names
+
+Ideally, names should follow these conventions:
+- clear and concise
+- ideally variables would be nouns, variables verbs
+- consistent style (variablename, VariableName, variable-name, variable_name)
+- avoid abbreviating
+A good name should enable the reviewer of the code or another developer to quickly understand what the code does. 
+
+Poorly named variables will make it difficult for others and even myself to understand the code. Ambiguity could also cause issues when we need to make changes but we are not sure what the variables or functions represent (temp could mean temperature variables, or temporary buffer, etc). In a shared environment, people may create variables or functions that are the same with different names because they didn't realise it already existed. Importantly, it slows down progress because of the frequent miscommunications or reviews. 
+
+## Fixing Names
+
+cnt -> unreead_message_count
+idx -> current_user_index
+update() -> update_user_profile()
+calc_total() -> calculate_invoice_total()
+
+Refactoring makes code easier to read and maintain, less-error prone and developers can understand it more quickly with minimal misunderstanding and documentation. 
+
+# Writing Small, Focused Functions
+
+## Functions Best Practice
+
+Functions should represent a single purpose. Ideally, functions should have less than 20 lines and have no side effects. Smaller functions reduce cognitive load and improve usability (some developers may need only a few functions). It also helps to make the intent of each part of the code explicit. 
+
+## Big, Multitasking Function to Small, Focused Function
+
+<img width="697" height="679" alt="Screenshot 2025-08-20 at 14 06 16" src="https://github.com/user-attachments/assets/47e8269d-ab65-4862-acf0-1eb53f694b60" />
+
+As seen on the image above, by breaking down the large function into smaller ones, each function has its own responsibility and is more readable when used in the main code. 
+
+# Avoiding Code Duplication
+
+Don't Repeat Yourself (DRY) principle is a software development principle aimed at reducing redundancy and duplication of information, discouraging repetition of code, data, and logic. Issues with having duplicate code within a system incude:
+- harder to maintain
+- higher risk of bugs
+- making changes in the code can take an unnecessarily long time
+
+Below shows the difference between a section of code with duplication vs no duplication.
+
+<img width="697" height="679" alt="Screenshot 2025-08-20 at 15 15 41" src="https://github.com/user-attachments/assets/5a381af1-95f5-4a34-9df8-36bbb592cdc6" />
+
+Refactoring the functions to remove duplication allows for centralised logic. This means when there needs be a change or fix, there will only be 1 place to fix it. Functions will also be easier to read because they are smaller and clearer, streamlining collaboration. 
+
+# Refactoring Code for Simplicity
+
+# Commenting and Documentation
+
+# Handling Errors and Edge Cases
+
+# Writing Unit Tests for Clean Code
+
+# Identifying and Fixing Code Smells
+
+# Static Analysis Checks in CI/CD
+
