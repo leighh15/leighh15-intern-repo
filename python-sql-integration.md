@@ -28,3 +28,10 @@ The pandas module can execute the following which can help with post-query data 
 - Transform: use pandas to aggregate, compute KPIs, create charts and presentable reports
 - Publish: We can save the generated outputs for reports
 - Distribute: We can even distribute these outputs and reports to the rest of the team or the relevant parties through python.
+
+## Experimenting with psycopg and pandas
+
+<img width="725" height="310" alt="Screenshot 2025-08-22 at 10 39 16" src="https://github.com/user-attachments/assets/9cf533de-0138-4dd9-bcc8-da9b9613bb64" />
+
+<img width="576" height="230" alt="Screenshot 2025-08-22 at 10 39 36" src="https://github.com/user-attachments/assets/73b86212-48e0-4917-96eb-4989e8b5eda8" />
+
