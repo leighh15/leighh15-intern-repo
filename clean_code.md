@@ -198,4 +198,16 @@ Cleaner code makes it easier to find the cause when something breaks, which is w
 
 # Code Formatting and Style Guides
 
+## Why is Code Formatting Important?
+
+Code formatting is important because it keeps the codebase consistent, making it easier for different developers to read and understand each other's code. It also reduces confusion and makes errors easier to spot.
+
+## What issues did the linter detect?
+
+Running eslint, it detected unusable variables, missing semicolons, some inconsistent spacing in my code. Although they are small mistakes and may not cause errors, they can cause bugs and make the code more difficult to read and follow if not fixed.
+
+## Did formatting the code make it easier to read?
+
+The code is much easier to read after formatting the code. The indentation and spacing are consistent which made the structure more clear. The code also looks more professional and readable.
+
 # Writing Unit Tests for Clean Code
