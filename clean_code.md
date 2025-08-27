@@ -196,6 +196,8 @@ Cleaner code makes it easier to find the cause when something breaks, which is w
 
 # Static Analysis Checks in CI/CD
 
+##
+
 # Code Formatting and Style Guides
 
 ## Why is Code Formatting Important?
@@ -211,3 +213,11 @@ Running eslint, it detected unusable variables, missing semicolons, some inconsi
 The code is much easier to read after formatting the code. The indentation and spacing are consistent which made the structure more clear. The code also looks more professional and readable.
 
 # Writing Unit Tests for Clean Code
+
+## How do unit tests help keep code clean?
+
+Unit tests force to define behaviour precisely. The tests act as executable documentation. I wrote slugify as a small, pure function with clear inputs/outputs—easy to test and reuse. The edge‑case tests (whitespace, punctuation, unicode, and None/null) pushed me to handle errors explicitly and remove hidden assumptions. With tests in place, I can refactor regexes or performance without fear—failures would localize regressions fast.
+
+## What issues did I find while testing?
+
+Initially, punctuation removal also stripped accented characters. I adjusted the regex to keep unicode word chars. I forgot to trim leading/trailing dashes; a test exposed it, so I added a final trim step. I clarified error handling for None/null by raising/throwing instead of returning a misleading value.
