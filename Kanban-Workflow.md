@@ -27,3 +27,8 @@ I can improve my workflow by adapting the following Kanban principles:
 Task:
 
 I've reviewed Focus Bear's kanban board and noted that all tasks are updated to the correct status. One way I can improve task tracking in my role is to have clear guidelines as to what makes a certain task "done", that is everyone will know what needs to be completed for it to be considered done. It helps to reduce ambiguity and makes progress tracking easier.
+
+<img width="1787" height="685" alt="Screenshot 2025-09-17 at 11 47 34 am" src="https://github.com/user-attachments/assets/0079138d-b716-42c1-a721-9b35d04ef954" />
+
+<img width="1787" height="685" alt="Screenshot 2025-09-17 at 11 47 43 am" src="https://github.com/user-attachments/assets/1e0c6a05-c3cd-42b3-919c-099fb20bfed5" />
+
