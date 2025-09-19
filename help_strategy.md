@@ -31,3 +31,8 @@ I ask a colleague when:
 - sharing private info by mistake
 - spending too much time
 - forgetting to document the solution
+
+## Miro Decision Tree
+
+<img width="590" height="502" alt="Screenshot 2025-09-19 at 13 09 42" src="https://github.com/user-attachments/assets/1c7e1099-b214-42c1-9864-29911b0260d6" />
+
