@@ -10,6 +10,7 @@ SQL is widely used for databases across all industries so having SQL skills is h
 ## SQL Functions
 
 I loaded the dvdrental database onto PSQL and experimented with the functions. dvdrental is a sample database representing the business processes of a DVD rental store. The following diagram shows the structure of the database:
+
 <img width="318" height="391" alt="Screenshot 2025-09-19 at 12 46 18 pm" src="https://github.com/user-attachments/assets/031ea17d-0a2c-4d52-a603-36d57e39d135" />
 
 Using SELECT function:
