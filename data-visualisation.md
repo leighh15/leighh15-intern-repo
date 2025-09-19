@@ -12,4 +12,26 @@ Matplotlib, as aforementioned, can generate basic level 2D plots for data. Seabo
 
 Focus Bear can benefit from data visualisations to aid in decision making because we can discover trends and relationships and generate insights that can increase our customer base. For example, a scatterplot can reveal a strong relationship between drop-off rate and time spent on the app. If we find that customers drop an app and have spent minimal time on it, then we can determine that app onboarding may be difficult to go ahead with. 
 
-<img width="1500" height="600" alt="analytics_demo" src="https://github.com/user-attachments/assets/8544087b-6b44-4740-b2f1-f59b25c15181" />
+## Matplotlib on Python
+
+Line Chart
+
+<img width="1187" height="464" alt="Screenshot 2025-09-19 at 23 26 21" src="https://github.com/user-attachments/assets/f6eb8cb8-e816-4b85-a009-611ba33110f0" />
+
+Bar Chart
+
+<img width="1187" height="464" alt="Screenshot 2025-09-19 at 23 26 57" src="https://github.com/user-attachments/assets/148f2a96-e7c1-49cc-ada4-c2b308b22395" />
+
+Scatter Plot
+
+<img width="1187" height="464" alt="Screenshot 2025-09-19 at 23 27 34" src="https://github.com/user-attachments/assets/ca333ee8-3102-4730-8222-ad05df80f116" />
+
+## Seaborn on Python
+
+Histogram
+
+<img width="1187" height="464" alt="Screenshot 2025-09-19 at 23 27 50" src="https://github.com/user-attachments/assets/8cca6f21-7c48-49b2-9e14-e0e11a2f4d8c" />
+
+Correlation Heatmap
+
+<img width="1187" height="464" alt="Screenshot 2025-09-19 at 23 29 33" src="https://github.com/user-attachments/assets/f453e267-8041-4167-b0ef-aea9ffa178f9" />
