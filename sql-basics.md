@@ -14,14 +14,17 @@ I loaded the dvdrental database onto PSQL and experimented with the functions. d
 <img width="318" height="391" alt="Screenshot 2025-09-19 at 12 46 18 pm" src="https://github.com/user-attachments/assets/031ea17d-0a2c-4d52-a603-36d57e39d135" />
 
 Using SELECT function:
+
 <img width="538" height="174" alt="Screenshot 2025-09-19 at 12 58 05" src="https://github.com/user-attachments/assets/24cfdcc4-99c1-4656-97e7-8d055a25848d" />
 
 
 The difference between WHERE and GROUP BY:
 - WHERE: filters rows
+- 
 <img width="406" height="394" alt="Screenshot 2025-09-19 at 12 58 37" src="https://github.com/user-attachments/assets/03008897-8935-4dcc-858b-18ee6cba13f2" />
 
 - GROUP BY: combines rows into groups based on a specified value
+- 
 <img width="616" height="130" alt="Screenshot 2025-09-19 at 12 59 01" src="https://github.com/user-attachments/assets/a8539f99-9637-480e-b6b9-bd598d2ec7d7" />
 
 ## Why SQL?
