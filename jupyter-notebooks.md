@@ -13,3 +13,10 @@ Markdown cells allow the integration of narrative text, headings, links, images,
 ## Application to Focus Bear’s User Trends
 
 For analyzing Focus Bear’s user trends, Jupyter Notebooks could serve as a powerful tool. Analysts could pull in raw usage data (e.g., session durations, feature adoption rates, or user retention), clean and process it in cells, and then generate visualizations to spot behavioral patterns. Markdown cells could provide narrative insights explaining why certain spikes or drops in user activity occurred, connecting quantitative findings to qualitative context. This would enable the team to make data-driven decisions about product improvements and user engagement strategies.
+
+<img width="1161" height="116" alt="Screenshot 2025-09-19 at 13 56 01" src="https://github.com/user-attachments/assets/260c85a6-86b4-4332-8ccc-100e6dac31f9" />
+
+<img width="1161" height="502" alt="Screenshot 2025-09-19 at 13 49 24" src="https://github.com/user-attachments/assets/f69b9386-c2c1-4f40-bfe6-ffa5170abe4f" />
+
+<img width="1161" height="444" alt="Screenshot 2025-09-19 at 13 49 53" src="https://github.com/user-attachments/assets/b13f13cf-e66c-4cf1-9dea-baaf50906908" />
+
