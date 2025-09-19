@@ -22,3 +22,5 @@
 - refactor and modularise to test smaller parts independently
 - track changes with version control (git bisect) to identify when the bug was introduced
 - consistent logging
+
+I have yet to begin a project where debugging could potentially come in handy. When I begin, I will refer back to this file for debugging techniques I could use.
