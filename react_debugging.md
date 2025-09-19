@@ -1,24 +1,24 @@
 # Debugging Techniques for Python
 
-## Most Common Debugging Techniques
+## Most Common Debugging Techniques in Python
 
-- reproduce reliably; create a minimal repro
-- read console warnings and errors first
-- use React DevTools to inspect props/state and renders
-- use breakpoints and logpoints
-- regression test before and after bug fix
+- print statements
+- using pdb (python debugger)
+- assert statements
+- excpetion handling (try/except)
+- Jupyter magics (%debug, %pdb, $run -d)
 
-## Most Effective Tools for React Debugging
+## Most Effective Tools for Python Debugging
 
-- React DevTools
-- Browser DevTools
-- VS Code Debugger
-- Error monitoring with source maps
+- pdb and ipdb for complex code paths.
+- logging module for scalable debugging across large projects.
+- Jupyter %debug magic to drop into post-mortem debugging
+- profiling tools such as %timeit, cProfile, line_profiler to catch performance related bugs.
 
-## How to Debug Issues in Large React Codebases
+## How to Debug Issues in Large Python/Jupyter Codebases
 
-- Isolate the problem
-- Use git bisect (find specific commit introducing bug)
-- add logging across client/server to follow a request
-- guard via feature flags
-- land a minimal fix with regression test; document ownership
+- isolate failing components to reduce the problem into a minimal smippet
+- use unit tests (pytest)
+- refactor and modularise to test smaller parts independently
+- track changes with version control (git bisect) to identify when the bug was introduced
+- consistent logging
