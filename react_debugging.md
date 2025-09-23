@@ -24,3 +24,7 @@
 - consistent logging
 
 I have yet to begin a project where debugging could potentially come in handy. When I begin, I will refer back to this file for debugging techniques I could use.
+
+## Personal Experience with Python Debugging
+
+For my assignment for a first-year Python unit, I hit a TypeError: 'NoneType' object is not iterable. I re-ran the cell with %debug and inspected local variables. I discovered that a helper function returned None when given an empty list. I updated the function to return an empty list instead of None.
